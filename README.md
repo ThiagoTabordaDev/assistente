@@ -23,8 +23,9 @@ Assistente Comercial
 
 ## Building
 <div>
-Para build da aplicação é necessário a instalar </br> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> e
- <img src="https://img.shields.io/static/v1?message=Yarn&color=blue" /> 
+Para build da aplicação é necessário a instalar </br> 
+<a src="https://nodejs.org/dist/v14.17.5/node-v14.17.5-x64.msi" target="_blanck" ><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a> e
+<a src="https://classic.yarnpkg.com/en/" target="_blanck"><img src="https://img.shields.io/static/v1?label=&message=Yarn&color=blue" /> </a>
 </div>
 <div class="highlight highlight-source-shell position-relative"><pre>git clone https://github.com/ThiagoTabordaDev/assistente.git
 $ <span class="pl-c1">cd</span> assistente
