@@ -29,8 +29,8 @@ Para build da aplicação é necessário a instalar </br>
 </div>
 <div class="highlight highlight-source-shell position-relative"><pre>git clone https://github.com/ThiagoTabordaDev/assistente.git
 $ <span class="pl-c1">cd</span> assistente
-$ yarn start
-$ yarn dev</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+$ yarn install
+$ yarn start</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git 
 
 " tabindex="0" role="button">
